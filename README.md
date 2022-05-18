@@ -5,6 +5,12 @@
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
 
+### ReadMe update
+- Truffle Version - `Truffle v5.5.11 (core: 5.5.11)`
+- OpenZeppelin Version - `2.3`
+- ERC-721 Token Name - `CJ Token`
+- ERC-721 Token Symbol - `CJT`
+- Token Address - ``
 
 ### Dependencies
 For this project, you will need to have:
